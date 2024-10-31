@@ -69,3 +69,7 @@ html, body {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.btn[data-active="true"]{
+  background-color: lightgreen;
+}
